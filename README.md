@@ -3,8 +3,7 @@
 <p align="center">Creating efficient, scalable, and user-centric applications 💻</p>
 
 <p align="center">
- <a href="mailto:samuelrickop@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://linkedin.com/in/samuelricko" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:samuelrickop@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
  <a href="https://www.upwork.com/freelancers/~0198550bf90cec56ad" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
@@ -51,17 +50,17 @@
 ---
 
 ## 💼 Experience Highlights
-
-- **Senior Backend Developer** - MyConnect.ai *(Remote | July 2024 - Present)*  
+- **Senior Backend Developer** - BeautyRightBack
   Spearheaded backend migration to NestJS for scalability and growth, aligning project goals with business objectives through close CEO collaboration.
 
-- **Back End Developer** - Nanovest *(Jakarta | Aug 2021 - Aug 2024)*  
+- **Senior Backend Developer** - MyConnect.ai
+  Spearheaded backend migration to NestJS for scalability and growth, aligning project goals with business objectives through close CEO collaboration.
+
+- **Back End Developer** - Nanovest
   Led the development of crypto exchange services, optimizing latency by 20% and implementing features like VIP Staking.
 
-- **Software Engineer** - Xendit *(Jakarta | Jan 2022 - Jan 2024)*  
+- **Software Engineer** - Xendit
   Enhanced Virtual Account products, achieving a 75% reduction in payment processing time. Led bank partner integrations.
-
-For more about my career journey, please check my [LinkedIn](https://linkedin.com/in/samuelricko).
 
 ---
 
