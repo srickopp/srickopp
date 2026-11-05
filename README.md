@@ -58,19 +58,19 @@
 - **Freelance Full-Stack Developer & System Architect** - [rickostudio](https://rickostudio.biz.id) (2024 – now)
   Top Rated Plus on Upwork with 100% Job Success. Rebuilt a school wallet into a double-entry ledger for 70,000+ users with zero downtime, and cut critical API latency from ~1s to 50–100ms on a 19-service GKE platform.
 
-- **Senior Backend Developer** - BeautyRightBack (2025)
+- **Senior Backend Developer** - BeautyRightBack (2025)  
   Owned six core microservices, from the BFF to third-party integrations, working directly with the CTO and co-founder and mentoring the backend team.
 
-- **Senior Backend Developer** - MyConnect.ai (2024 – 2025)
+- **Senior Backend Developer** - MyConnect.ai (2024 – 2025)  
   Spearheaded the backend migration from AWS Amplify to NestJS for scalability and growth, aligning project goals with business objectives through close CEO collaboration.
 
-- **Back End Developer** - Nanovest (2021 – 2024)
+- **Back End Developer** - Nanovest (2021 – 2024)  
   Led the development of crypto exchange services, refactoring the exchange to v2, optimizing latency by 20% and implementing features like Staking and VIP Staking.
 
-- **Software Engineer** - Xendit (2022 – 2024)
+- **Software Engineer** - Xendit (2022 – 2024)  
   Enhanced Virtual Account products on an event-driven architecture, cutting payment processing time by 75% (20s to 5s). Led bank partner integrations.
 
-- **Earlier** - FashionValet (2021 – 2022), Glovory Technologies (2019 – 2021)
+- **Earlier** - FashionValet (2021 – 2022), Glovory Technologies (2019 – 2021)  
   Backend development for e-commerce and client projects.
 
 ---
