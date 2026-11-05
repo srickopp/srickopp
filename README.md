@@ -64,7 +64,7 @@ Full case studies: **[rickostudio.biz.id/#work](https://rickostudio.biz.id/#work
 
 ### Stack
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **Frontend** | Next.js · React · TypeScript · Tailwind · Astro |
 | **Backend** | Node.js · NestJS · Express · Fastify · Go · Echo · Laravel |
