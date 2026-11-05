@@ -55,7 +55,7 @@
 ---
 
 ## 💼 Experience Highlights
-- **Freelance Full-Stack Developer & System Architect** - [rickostudio](https://rickostudio.biz.id) (2024 – now)
+- **Freelance Full-Stack Developer & System Architect** - [rickostudio](https://rickostudio.biz.id) (2024 – now)  
   Top Rated Plus on Upwork with 100% Job Success. Rebuilt a school wallet into a double-entry ledger for 70,000+ users with zero downtime, and cut critical API latency from ~1s to 50–100ms on a 19-service GKE platform.
 
 - **Senior Backend Developer** - BeautyRightBack (2025)  
