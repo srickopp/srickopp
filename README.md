@@ -50,6 +50,19 @@
   <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
   <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
   <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+
+  <!-- AI, Agents & Tooling -->
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge" />
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
+  <img alt="OMP" src="https://img.shields.io/badge/OMP-5C5C62?style=for-the-badge" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP_Servers-111113?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+  <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" />
+  <img alt="Context Engineering" src="https://img.shields.io/badge/Context_Engineering-2563EB?style=for-the-badge" />
 </p>
 
 ---
